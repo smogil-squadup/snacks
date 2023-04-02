@@ -4,19 +4,22 @@
       "id": 1,
       "name": "Snack 1",
       "category": "Chips",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+      "rating": 4
     },
     {
       "id": 2,
       "name": "Snack 2",
       "category": "Candy",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+      "rating": 2
     },
     {
       "id": 3,
       "name": "Snack 3",
       "category": "Pretzels",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+      "rating": 3
     }
   ]
 }
