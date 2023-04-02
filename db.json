@@ -11,6 +11,12 @@
       "name": "Snack 2",
       "category": "Candy",
       "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Snack 3",
+      "category": "Pretzels",
+      "image": "https://via.placeholder.com/150"
     }
   ]
 }
